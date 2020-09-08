@@ -14,7 +14,7 @@
 body {
     color: #333333;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    background-image: url(rawpixel.png);
+    background-image: url(rawpixel.jpg);
 }
 
 .container {
@@ -45,7 +45,7 @@ header {
 }
 
 .menu-departamentos {
-    background-color: #DCDCDC;
+    background-color: #CAE1FF;
     font-weight: bold;
     text-transform: uppercase;
     margin-right: 10px;
@@ -102,14 +102,14 @@ header {
 
 .novidades {
     float: left;
-    background-color: #F5DCDC;
-    background: linear-gradient(#F5DCDC, #BEBEF4);
+    background-color: #CAE1FF;
+    background: linear-gradient(#CAE1FF, #CAE1FF);
 }
 
 .mais-vendidos {
     float: right;
-    background-color: #DCDCF5;
-    background: linear-gradient(#DCDCF5, #F4BEBE);
+    background-color: #CAE1FF;
+    background: linear-gradient(#CAE1FF, #CAE1FF);
 }
 
 .painel li {
